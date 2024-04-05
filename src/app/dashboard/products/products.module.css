@@ -1,0 +1,10 @@
+.products {
+   display: grid;
+   gap: 12px;
+   background-color: beige;
+   font-weight: 900;
+   font-family: "Poppins" sans-serif;
+   text-decoration: dashed;
+
+
+}
