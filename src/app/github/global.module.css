@@ -1,0 +1,36 @@
+.container {
+    display: flex;
+    flex-direction: row;
+    width: 80%;
+    margin: 25px auto
+    
+}
+
+.profile  {
+    margin-top: 85px;
+    width: 400px;
+}
+
+.coluna {
+     margin-left: 50px;
+
+}
+
+.coluna2 {
+    margin-left: 50px;
+    margin-top: 61px;
+
+
+}
+
+.linha {
+    margin-top: 25px;
+}
+
+.button {
+   margin-left: 325px;
+}
+
+.button:hover {
+   opacity: 0.9;
+}
